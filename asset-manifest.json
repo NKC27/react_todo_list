@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/react_todo_list/static/css/main.585db465.css",
-    "main.js": "/.github.io/react_todo_list/static/js/main.b28b1446.js",
-    "index.html": "/.github.io/react_todo_list/index.html",
-    "main.585db465.css.map": "/.github.io/react_todo_list/static/css/main.585db465.css.map",
-    "main.b28b1446.js.map": "/.github.io/react_todo_list/static/js/main.b28b1446.js.map"
+    "main.css": "/react_todo_list/static/css/main.585db465.css",
+    "main.js": "/react_todo_list/static/js/main.b28b1446.js",
+    "index.html": "/react_todo_list/index.html",
+    "main.585db465.css.map": "/react_todo_list/static/css/main.585db465.css.map",
+    "main.b28b1446.js.map": "/react_todo_list/static/js/main.b28b1446.js.map"
   },
   "entrypoints": [
     "static/css/main.585db465.css",
